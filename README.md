@@ -1,4 +1,7 @@
 # tic
+Play Tic Tac Toe.
+Built in VueJS.
+Uses CSS Grid Layout.
 
 ## Project setup
 ```
